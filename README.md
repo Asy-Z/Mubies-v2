@@ -1,1 +1,1 @@
-a flawed final year but still got an A for it
+my final year for object oriented programming and got an A for it
