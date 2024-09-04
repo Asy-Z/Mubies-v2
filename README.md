@@ -1,4 +1,4 @@
-### OVERVIEW:
+# OVERVIEW:
 
 muBies.net is a user-friendly web application designed to revolutionize the way users interact with
 movies. Seamlessly integrating cutting-edge technologies, muBies.net empowers users to effortlessly
